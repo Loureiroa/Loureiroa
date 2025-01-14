@@ -14,7 +14,7 @@
 <img src='https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white'>
 </div>
 
-### Utilizando dados para responder e solucionar problemas impactantes nas nossas vidas! 📊
+### Utilizando dados para responder e resolver problemas impactantes em nossas vidas! 📊
 
 #### Repositório de Projetos de Análise de dados: 
 
