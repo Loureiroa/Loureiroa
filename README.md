@@ -1,5 +1,5 @@
 ## Olá! 👋
-<div style='display: inline_block'><br/>
+<div style='display: inline_block'>
 </div>
 
 ### Utilizo dados para responder e resolver problemas impactantes em nossas vidas! 📊
