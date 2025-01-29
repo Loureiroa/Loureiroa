@@ -1,6 +1,7 @@
 ## Olá! 👋
 <div style='display: inline_block'><br/>
 </div>
+
 ### Utilizo dados para responder e resolver problemas impactantes em nossas vidas! 📊
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/loureiro09/)
