@@ -1,5 +1,7 @@
 ### Olá! 👋
 
+### Utilizo dados para responder e resolver problemas impactantes em nossas vidas! 📊
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/loureiro09/)
 
 
@@ -16,9 +18,10 @@
 <img src='https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white)'>
 </div>
 
-### Utilizando dados para responder e resolver problemas impactantes em nossas vidas! 📊
 
-#### Repositório de Projetos de Análise de dados: 
+### Repositório de Projetos de Análise de dados: 
+
+<div style='display: inline_block'><br/>
 
 https://mavenanalytics.io/profile/Arthur-Loureiro/201650200
 
