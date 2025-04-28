@@ -25,6 +25,5 @@
 
 <div style='display: inline_block'><br/>
 </div>
-
 https://mavenanalytics.io/profile/Arthur-Loureiro/201650200
 
