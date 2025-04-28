@@ -9,7 +9,7 @@
 
 ![Loureiro GitHub stats](https://github-readme-stats.vercel.app/api?username=Loureiroa&show_icons=true&theme=dark)
 
-## Ferramentas e Linguagens
+## 🛠️ Ferramentas e Linguagens
 
 <div style='display: inline_block'><br/>
 
