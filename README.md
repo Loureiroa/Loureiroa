@@ -2,7 +2,7 @@
 <div style='display: inline_block'>
 </div>
 
-### Utilizo dados para responder e resolver problemas impactantes em nossas vidas! 📊
+### Utilizo dados para responder e resolver problemas impactantes em nossas vidas! 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/loureiro09/)
 
@@ -21,7 +21,7 @@
 </div>
 
 
-### Repositório de Projetos de Análise de dados: 
+## 📊 Repositório de Projetos de Análise de dados: 
 
 <div style='display: inline_block'><br/>
 </div>
