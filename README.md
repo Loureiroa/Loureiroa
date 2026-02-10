@@ -19,24 +19,12 @@ Minha atuação une **visão de negócio + engenharia de IA**, com foco em:
 
 ---
 
-![Loureiro GitHub stats](https://github-readme-stats.vercel.app/api?username=Loureiroa&show_icons=true&theme=dark)
-
----
-
 ## 🧠 Stack de Inteligência Artificial & Tecnologia
 
 <div style='display: inline_block'><br/>
 
 <img src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white'>
-<img src='https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white'>
-<img src='https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white'>
 <img src='https://img.shields.io/badge/AI_Agents-5A29E4?style=for-the-badge&logo=robotframework&logoColor=white'>
 <img src='https://img.shields.io/badge/Automation-FF6F00?style=for-the-badge&logo=zapier&logoColor=white'>
-
-<br/>
-
-<img src='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white'>
-<img src='https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white'>
-<img src='https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white'>
 
 </div>
